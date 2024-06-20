@@ -10,7 +10,19 @@ int main() {
 
     //Meg While loop if u want to play again
 
+    // Variables to store player names
+    string player1, player2;
+    
+    // Input name of the player
+    cout << "Enter name of Player 1 (X): ";
+    cin << player1;
+    cout << "Enter name of Player 2 (O): ";
+    cin << player2;
+    
+    // Good luck message before the game start
+    cout << endl << "Good luck, " << player1 << " and " << player2 << "!" << endl;
 
+    cout << endl << endl;
 
 
 
@@ -102,6 +114,6 @@ int main() {
         cout << "Player" << winner << " is the winner!" << endl;
     }
     else {
-        cout << "Tie!" << endl;
+        cout << "It's a tie! Well played, " << player1 << " and " << player2 << "!" << endl;
     }
 }
