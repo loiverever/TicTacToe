@@ -11,6 +11,8 @@ int main() {
 
     //Meg While loop if u want to play again
 
+    //Kate Score Tracking 
+
     // Variables to store player names
     string player1, player2;
 
