@@ -198,7 +198,7 @@ int main() {
                 winner = board[0][2];
             }
 
-            // Kate Score Tracking
+            
             // If there is a winner, update scores
             if (winner == playerX) {
                 scorePlayer1++;
@@ -232,6 +232,7 @@ int main() {
         }
 
         // Display scores
+        // Kate Score Tracking
         cout << "-------------------------------------------------------------------------------------------------" << endl;
         cout << "   ___     ___     ___     ___     ___     ___   \n";
         cout << "  / __|   / __|   / _ \\   | _ \\   | __|   / __|  \n";
