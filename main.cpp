@@ -69,6 +69,9 @@ int main() {
     
     cout << "" << endl;
 
+    sleep_for(3s);
+    sleep_until(system_clock::now() + 1s);
+
     // Store players score
     int scorePlayer1 = 0, scorePlayer2 = 0;
 
