@@ -76,7 +76,6 @@ int main() {
     int scorePlayer1 = 0, scorePlayer2 = 0;
 
 
-    // Shanley Enter the player's name, adventure message, winner message, tie message
     // Variables to store player names
     string player1, player2;
 
@@ -88,6 +87,7 @@ int main() {
 
     cout << "" << endl;
 
+    // Shanley Enter the player's name, adventure message, winner message, tie message
     // Input name of the players
     cout << "Enter name of Player 1 (X): ";
     cin >> player1;
