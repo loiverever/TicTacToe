@@ -52,7 +52,7 @@ int main() {
     //Giuliani Instructions of the game
     cout << "-------------------------------------------------------------------------------------------------" << endl;
     cout << "" << endl;
-    cout << "\t\t\t\t\tInstructions:" << endl << endl;
+    cout << "\t\t\t\t\tHow to play:" << endl << endl;
     cout << "-------------------------------------------------------------------------------------------------" << endl;
 
     cout << "" << endl;
