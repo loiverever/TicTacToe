@@ -2,12 +2,12 @@
 A simple two-player Tic Tac Toe game developed using C++. This game is played in the console, providing an interactive text-based interface for players.
 
 - 🧠 Features
- - Welcome screen with a brief game description
- - Player name input for a personalized experience
- - Turn-based system: Player 1 (X) and Player 2 (O)
- - Automatic win and draw detection
- - Real-time score tracking
- - Option to replay or exit after each game
+  - Welcome screen with a brief game description
+  - Player name input for a personalized experience
+  - Turn-based system: Player 1 (X) and Player 2 (O)
+  - Automatic win and draw detection
+  - Real-time score tracking
+  - Option to replay or exit after each game
 
 - 🛠 Technology Used
   - Language: C++
